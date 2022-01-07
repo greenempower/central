@@ -1,0 +1,6 @@
+[submodule "mods/environment"]
+	path = mods/environment
+	url = git@github.com:greenempower/environment.git
+[submodule "mods/sites/greenempower.org"]
+	path = mods/sites/greenempower.org
+	url = git@github.com:greenempower/greenempower.org.git
