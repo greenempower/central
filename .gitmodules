@@ -22,3 +22,6 @@
 [submodule "mods/media"]
 	path = mods/media
 	url = git@github.com:greenempower/media.git
+[submodule "mods/share"]
+	path = mods/share
+	url = git@github.com:greenempower/share.git
