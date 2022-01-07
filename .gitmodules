@@ -13,3 +13,12 @@
 [submodule "mods/research"]
 	path = mods/research
 	url = git@github.com:greenempower/research.git
+[submodule "mods/study"]
+	path = mods/study
+	url = git@github.com:greenempower/study.git
+[submodule "mods/theology"]
+	path = mods/theology
+	url = git@github.com:greenempower/theology.git
+[submodule "mods/media"]
+	path = mods/media
+	url = git@github.com:greenempower/media.git
