@@ -4,3 +4,12 @@
 [submodule "mods/sites/greenempower.org"]
 	path = mods/sites/greenempower.org
 	url = git@github.com:greenempower/greenempower.org.git
+[submodule "mods/mod"]
+	path = mods/mod
+	url = git@github.com:greenempower/mod.git
+[submodule "mods/framework"]
+	path = mods/framework
+	url = git@github.com:greenempower/framework.git
+[submodule "mods/research"]
+	path = mods/research
+	url = git@github.com:greenempower/research.git
