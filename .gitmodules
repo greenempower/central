@@ -25,3 +25,21 @@
 [submodule "mods/share"]
 	path = mods/share
 	url = git@github.com:greenempower/share.git
+[submodule "mods/cinema"]
+	path = mods/cinema
+	url = git@github.com:greenempower/cinema.git
+[submodule "mods/sites/voxim.org"]
+	path = mods/sites/voxim.org
+	url = git@github.com:voximorg/voxim.org.git
+[submodule "mods/voxim.dir/rev1"]
+	path = mods/voxim.dir/rev1
+	url = git@github.com:voximorg/rev1.git
+[submodule "mods/voxim.dir/propaganda"]
+	path = mods/voxim.dir/propaganda
+	url = git@github.com:voximorg/propaganda.git
+[submodule "mods/res"]
+	path = mods/res
+	url = git@github.com:greenempower/res.git
+[submodule "mods/voxim.dir/voxim"]
+	path = mods/voxim.dir/voxim
+	url = git@github.com:holdengreen/voxim.git
